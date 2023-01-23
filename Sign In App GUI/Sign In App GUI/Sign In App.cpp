@@ -10,8 +10,6 @@
 HINSTANCE hInst;                                // current instance
 WCHAR szTitle[MAX_LOADSTRING] ;               // The title bar text
 
-//static TCHAR szTitle[] = _T("SIGN IN APP");
-
 WCHAR szWindowClass[MAX_LOADSTRING];            // the main window class name
 
 
