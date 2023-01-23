@@ -1,0 +1,3 @@
+﻿  Sign In App.cpp
+C:\Users\timbi\source\repos\Sign In App GUI\Sign In App GUI\Sign In App.cpp(158,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sign In App GUI.vcxproj -> C:\Users\timbi\source\repos\Sign In App GUI\x64\Debug\Sign In App GUI.exe
